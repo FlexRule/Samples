@@ -1,0 +1,8 @@
+<Flow name="TwitterFlow">
+  <Nodes>
+    <Activity name="Activity2">
+      <Transition name="Transition4" to="Activity3" />
+    </Activity>
+    <Activity name="Activity3" />
+  </Nodes>
+</Flow>

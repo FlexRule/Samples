@@ -1,0 +1,8 @@
+<Resource name="sample resource">
+  <Section>
+    <Message key="name" value="subhashi and arash" />
+  </Section>
+  <Section culture="fa">
+    <Message key="name" value="ARASH AND SUBHASHI IN FARSI" />
+  </Section>
+</Resource>
